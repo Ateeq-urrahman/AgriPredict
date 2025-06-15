@@ -35,3 +35,4 @@ ii.Multi language support
 iii.make it more responsible 
 iv.make it dynamic base on real dataset
 iv.add some feature: climate smart crop selection and optimized planning schedule
+ video presentation link :https://drive.google.com/file/d/1mif354-vn3kGO66TVuh7hNidrsf_VBoP/view?usp=drivesdk
