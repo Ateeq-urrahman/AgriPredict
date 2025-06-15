@@ -1,0 +1,5 @@
+Flask
+Flask-Cors
+requests
+python-dotenv
+google-generativeai==0.3.0 # <--- ADD THIS LINE (or the latest version)
